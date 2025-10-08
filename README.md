@@ -1,6 +1,6 @@
 Welcome ! This is my new game called "Button Clicker"
 
-![Click](pictures/img1.png)
+![Click](img1.png)
 
 This was made with html,js and css! It then was converted with python to make the Unix Executable File. 
 
